@@ -1,5 +1,4 @@
 ## Before running this, turn on the less secure access at 'https://www.google.com/settings/security/lesssecureapps'
-## http://naelshiab.com/tutorial-send-email-python/
 
 import smtplib
 import time
