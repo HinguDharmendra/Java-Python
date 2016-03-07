@@ -17,4 +17,4 @@ def lowercase_rename( dir ):
         rename_all( root, files)
 
 
-lowercase_rename('C:\Users\HaRnIsHa\Desktop\Videos\Movies')
+lowercase_rename('C:\Users\HiNgU\Desktop\Videos\Movies')
