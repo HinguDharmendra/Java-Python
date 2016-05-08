@@ -1,0 +1,29 @@
+10   Inland Pacific NorthWest towns
+Coulee City
+Davenport
+Ellensburg
+George
+Leavenworth
+Moses Lake
+Pasco
+Ritzville
+Spokane
+Sprague
+
+"Coulee City" "George"      55
+"Coulee City" "Leavenworth" 91
+"Coulee City" "Moses Lake"  52
+"Coulee City" "Davenport"   66
+"Davenport" "Sprague"       36
+"Ellensburg" "George"       42
+"Ellensburg" "Pasco"       108
+"George" "Leavenworth"      70
+"George" "Moses Lake"       31
+"George" "Pasco"            91
+"Leavenworth" "Ellensburg"  56
+"Moses Lake" "Pasco"        72
+"Moses Lake" "Ritzville"    42
+"Pasco" "Ritzville"         82
+"Ritzville" "Sprague"       23
+"Spokane"  "Davenport"      38
+"Sprague" "Spokane"         36
